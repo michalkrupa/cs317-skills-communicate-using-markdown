@@ -14,3 +14,7 @@ def greet(return_status=False):
   if return_status:
     return True
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
